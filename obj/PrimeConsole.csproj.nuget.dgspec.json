@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Humble\\source\\repos\\PrimeConsole\\PrimeConsole\\PrimeConsole.csproj": {}
+    "C:\\Users\\Humble\\source\\repos\\Prime\\Prime\\PrimeConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Humble\\source\\repos\\PrimeConsole\\PrimeConsole\\PrimeConsole.csproj": {
+    "C:\\Users\\Humble\\source\\repos\\Prime\\Prime\\PrimeConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Humble\\source\\repos\\PrimeConsole\\PrimeConsole\\PrimeConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Humble\\source\\repos\\Prime\\Prime\\PrimeConsole.csproj",
         "projectName": "PrimeConsole",
-        "projectPath": "C:\\Users\\Humble\\source\\repos\\PrimeConsole\\PrimeConsole\\PrimeConsole.csproj",
+        "projectPath": "C:\\Users\\Humble\\source\\repos\\Prime\\Prime\\PrimeConsole.csproj",
         "packagesPath": "C:\\Users\\Humble\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Humble\\source\\repos\\PrimeConsole\\PrimeConsole\\obj\\",
+        "outputPath": "C:\\Users\\Humble\\source\\repos\\Prime\\Prime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
