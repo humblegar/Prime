@@ -1,0 +1,11 @@
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp3.1\PrimeConsole.exe
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp3.1\PrimeConsole.deps.json
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp3.1\PrimeConsole.runtimeconfig.json
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp3.1\PrimeConsole.runtimeconfig.dev.json
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp3.1\PrimeConsole.dll
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp3.1\PrimeConsole.pdb
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp3.1\PrimeConsole.csprojAssemblyReference.cache
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp3.1\PrimeConsole.AssemblyInfoInputs.cache
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp3.1\PrimeConsole.AssemblyInfo.cs
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp3.1\PrimeConsole.dll
+C:\Users\Humble\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp3.1\PrimeConsole.pdb
