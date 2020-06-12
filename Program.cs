@@ -37,7 +37,7 @@ namespace PrimeConsole
             {
                 if (primeCandidate % i == 0)
                 {
-                    return Task.FromResult($"{primeCandidate} is not a prime number, it is divisibleby {i}");
+                    return Task.FromResult($"{primeCandidate} is not a prime number, it is divisible by {i}");
                 }
             }
             return Task.FromResult($"{primeCandidate} is a prime number");
